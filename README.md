@@ -23,11 +23,11 @@ It is desired to prospect companies that have solutions in **water treatment**, 
 
 ## API use:
 
-Server execution: uvicorn APP:appCanadaWater --reload
- API access: http://127.0.0.1:8000
- Swagger access: http://127.0.0.1:8000/docs
++ Server execution: uvicorn APP:appCanadaWater --reload
++ API access: http://127.0.0.1:8000
++ Swagger access: http://127.0.0.1:8000/docs
 
- To test:
++ To test:
  curl -X 'POST' \
   'http://127.0.0.1:8000/predict/' \
   -H 'accept: application/json' \
