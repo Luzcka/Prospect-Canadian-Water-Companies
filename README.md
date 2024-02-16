@@ -21,6 +21,33 @@ It is desired to prospect companies that have solutions in **water treatment**, 
 + /Data/best_logistic_regression_model.pkl                                    - Logistic Regression Model.
 + /Data/tfidf_matrix_restrita.pkl                                             - TF-IDF Matrix used.
 
+## Criação do Ambiente:
+
+conda create -n firstenv python=3.10 nb_conda pylint pip
+conda activate firstenv
+
+conda install -c anaconda pandas
+conda install -c conda-forge fastparquet
+conda install -c anaconda numpy
+conda install -c anaconda scipy
+conda install -c anaconda scikit-learn
+pip install openpyxl
+conda install -c conda-forge spacy
+python -m spacy download en_core_web_trf
+pip install gensim
+conda install -c conda-forge matplotlib
+conda install -c anaconda seaborn
+conda install -c conda-forge plotly
+conda install -c plotly plotly_express
+conda install -c conda-forge wordcloud
+
+pip install gensim pyLDAvis
+pip install imbalanced-learn
+pip install fastapi uvicorn
+pip install joblib
+pip install folium
+
+
 ## API use:
 
 + Server execution: uvicorn APP:appCanadaWater --reload
