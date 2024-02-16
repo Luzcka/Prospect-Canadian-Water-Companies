@@ -12,13 +12,14 @@ It is desired to prospect companies that have solutions in **water treatment**, 
 
 ## Files list:
 
-+ 00-DataFIleAdjusts.ipynb                                         - Jupyter Notebook Where data is reformatted and corrected for use in the solution.
-+ 01-EDA e Exercicios.ipynb                                        - Jupyter Notebook Where the initial EDA, data inference, algorithm testing for classification, and EDA with all provided and inferred data are implemented.
-+ API.py                                                           - FastAPI API for model consumption
-+ Planilha em First_Desafio_ciencia_de_dados_SR (1) 1 (1) (2).xlsm - Spreadsheet with data in initial format.
-+ lda_visualization.html                                           - LDA Model interactive visualization.
-+ best_logistic_regression_model.pkl                               - Logistic Regression Model.
-+ tfidf_matrix_restrita.pkl                                        - TF-IDF Matrix used.
++ /Docs/Pablo Vigneaux - First_Desafio_ciencia_de_dados_SR.pdf                - Answered questionnaire
++ /00-DataFIleAdjusts.ipynb                                                   - Jupyter Notebook Where data is reformatted and corrected for use in the solution.
++ /01-EDA e Exercicios.ipynb                                                  - Jupyter Notebook Where the initial EDA, data inference, algorithm testing for classification, and EDA with all provided and inferred data are implemented.
++ /API.py                                                                     - FastAPI API for model consumption
++ /Dta/Planilha em First_Desafio_ciencia_de_dados_SR (1) 1 (1) (2).xlsm       - Spreadsheet with data in initial format.
++ /Data/lda_visualization.html                                                - LDA Model interactive visualization.
++ /Data/best_logistic_regression_model.pkl                                    - Logistic Regression Model.
++ /Data/tfidf_matrix_restrita.pkl                                             - TF-IDF Matrix used.
 
 ## API use:
 
