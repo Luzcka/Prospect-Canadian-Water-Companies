@@ -22,7 +22,7 @@ It is desired to prospect companies that have solutions in **water treatment**, 
 
 ## API use:
 
-** Server execution: uvicorn APP:appCanadaWater --reload
+Server execution: uvicorn APP:appCanadaWater --reload
  API access: http://127.0.0.1:8000
  Swagger access: http://127.0.0.1:8000/docs
 
@@ -33,4 +33,4 @@ It is desired to prospect companies that have solutions in **water treatment**, 
   -H 'Content-Type: application/json' \
   -d '{
   "description": "Sua descrição aqui"
- }' **
+ }'
