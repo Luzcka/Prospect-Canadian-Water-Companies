@@ -14,7 +14,9 @@ It is desired to prospect companies that have solutions in **water treatment**, 
 
 + /Docs/Pablo Vigneaux - First_Desafio_ciencia_de_dados_SR.pdf                - Answered questionnaire
 + /00-DataFIleAdjusts.ipynb                                                   - Jupyter Notebook Where data is reformatted and corrected for use in the solution.
-+ /01-EDA e Exercicios.ipynb                                                  - Jupyter Notebook Where the initial EDA, data inference, algorithm testing for classification, and EDA with all provided and inferred data are implemented.
++ /01-EDA Transformacoes e Inferencia.ipynb                                   - Jupyter Notebook Where the initial EDA, data inference, and some tests are implemented.
++ /02-Exercicio-01-Modelo.ipynb                                               - Jupyter Notebook Where exercise 01 was implemented, creating a model using text data.
++ /03-Exercicio-02-EDA.zip                                                    - Jupyter Notebook Where exercise 02 was implemented. The final file exceeds 30 MB because this it was compressed.
 + /API.py                                                                     - FastAPI API for model consumption
 + /Dta/Planilha em First_Desafio_ciencia_de_dados_SR (1) 1 (1) (2).xlsm       - Spreadsheet with data in initial format.
 + /Data/lda_visualization.html                                                - LDA Model interactive visualization.
